@@ -1,43 +1,45 @@
-<h1 align="center">Welcome to nice-readmes 👋</h1>
+<h1 align="center">Bienvenue à SoowCode 👋</h1>
 <p>
-  <a href="http://blog.avneesh.tech/create-nice-readmes-for-your-open-source-projects" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  <a href="https://soowcode.github.io/" target="_blank">
+    <img alt="SoowCode" src="https://img.shields.io/badge/website-yes-brightgreen.svg" />
   </a>
-  <a href="https://twitter.com/avneesh0612" target="_blank">
-    <img alt="Twitter: avneesh0612" src="https://img.shields.io/twitter/follow/avneesh0612.svg?style=social" />
-  </a>
+  
 </p>
+### 🏠 [WEBSITE](https://soowcode.github.io/)
 
-> This project teaches how to create nice readmes
+Nous sommes comme de centaines d'autres débrouillards. Ici, nous partageons ce que nous avons rencontré comme difficulté sous forme de tutoriel pour que vous pussiez ne plus faire la même erreur ou au moins savoir comment résoudre le problème.
 
-### 🏠 [Homepage](http://blog.avneesh.tech/create-nice-readmes-for-your-open-source-projects)
+Il y a plusieurs sujets tous mélanger du langage de programmation au github actions en passant par Docker, MQTT (IoT) et les tests en python.
 
-### ✨ [Demo](http://blog.avneesh.tech/create-nice-readmes-for-your-open-source-projects)
+Ainsi la plupart des difficultés rencontrées sont répertoriées ici pour en faire un document pour les débrouillards.
 
-## Install
 
-```sh
-yarn install
-```
 
-## Usage
+## Quelques tutoriels que vous trouverez ici!
 
-```sh
-yarn dev
-```
+- <a href="https://soowcode.github.io/MQTT/" >MQTT</a>
+- <a href="https://soowcode.github.io/Python/">PYTHON</a> 
+- <a href="https://soowcode.github.io/Ubuntu-commandes/" >Ubuntu-commandes</a>   
+- <a href="https://soowcode.github.io/apache-benchmark/">Apache-benchmark</a>
+- <a href="https://soowcode.github.io/callback-function/" >Callback-function</a>  
+- <a href="https://soowcode.github.io/docker/">Docker</a>
+- <a href="https://soowcode.github.io/happy-path-and-edge-cases/" >Happy-path-and-edge-cases</a>  
+- <a href="https://soowcode.github.io/npm-vs-npx/">Npm-vs-npx</a>
+- <a href="https://soowcode.github.io/python-commandes/" >python-commandes</a>  
+- <a href="https://soowcode.github.io/react-native/">React-native</a>
+- <a href="https://soowcode.github.io/spring-boot/" >Spring-boot</a>  
+- <a href="https://soowcode.github.io/tests/">Tests avec python</a>
 
 ## Author
 
-👤 **Avneesh Agarwal**
+👤 **Ousmane SOW**
 
-* Website: https://www.avneesh.tech/
-* Twitter: [@avneesh0612](https://twitter.com/avneesh0612)
-* Github: [@avneesh0612](https://github.com/avneesh0612)
-* LinkedIn: [@avneesh-agarwal-78312b20a](https://linkedin.com/in/avneesh-agarwal-78312b20a)
+- Website: https://soowcode.github.io
+- Twitter: [@Sow34979868](https://twitter.com/Sow34979868)
+- Github: [@sowousmane](https://github.com/sowousmane)
+- LinkedIn: [@ousmane-sow-79071412a](https://www.linkedin.com/in/ousmane-sow-79071412a/)
 
-## Show your support
+## Soutenez-nous !
 
-Give a ⭐️ if this project helped you!
+Laissez une ⭐️ si ce projet vous a été util!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
