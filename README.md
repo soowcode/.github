@@ -42,5 +42,5 @@ Ainsi la plupart des difficultés rencontrées sont répertoriées ici pour en f
 
 ## Soutenez-nous !
 
-Laissez une ⭐️ si ce projet vous a été util!
+Laissez une ⭐️ si ce projet vous a été utile !
 
