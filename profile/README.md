@@ -1,6 +1,3 @@
-Voici le texte corrigé avec les erreurs et les malformations de phrases corrigées :
-
-```html
 <h1 align="center">Bienvenue à SoowCode 👋</h1>
 <p>
   <a href="https://soowcode.github.io/" target="_blank">
@@ -44,6 +41,3 @@ Ainsi, la plupart des astuces sont répertoriées ici pour en faire un document 
 ## Soutenez-nous !
 
 Laissez-nous une ⭐️ si ce projet vous a été utile !
-```
-
-J'ai corrigé les fautes d'orthographe, réorganisé certaines phrases pour une meilleure fluidité et ajouté quelques détails pour améliorer la clarté.
