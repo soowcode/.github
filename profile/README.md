@@ -1,47 +1,49 @@
+Voici le texte corrigé avec les erreurs et les malformations de phrases corrigées :
+
+```html
 <h1 align="center">Bienvenue à SoowCode 👋</h1>
 <p>
   <a href="https://soowcode.github.io/" target="_blank">
     <img alt="SoowCode" src="https://img.shields.io/badge/website-yes-brightgreen.svg" />
   </a>
-  
 </p>
 
-### 🏠 [WEBSITE](https://soowcode.github.io/)
+### 🏠 [SITE WEB](https://soowcode.github.io/)
 
-Nous sommes comme de centaines d'autres débrouillards. Ici, nous partageons ce que nous avons rencontré comme difficulté sous forme de tutoriel pour que vous pussiez ne plus faire la même erreur ou au moins savoir comment résoudre le problème.
+Nous sommes comme des centaines d'autres bidouilleurs. Ici, nous partageons ce qui nous a été utile sous forme de tutoriels pour que vous puissiez en bénéficier.
 
-Il y a plusieurs sujets tous mélanger du langage de programmation au github actions en passant par Docker, MQTT (IoT) et les tests en python.
+Nous abordons de nombreux sujets, mélangeant les langages de programmation, les actions GitHub, Docker, MQTT (IoT) et les tests en Python.
 
-Ainsi la plupart des difficultés rencontrées sont répertoriées ici pour en faire un document pour les débrouillards.
+Ainsi, la plupart des astuces sont répertoriées ici pour en faire un document destiné aux bidouilleurs.
 
-
-
-## Quelques tutoriels que vous trouverez ici!
+## Quelques tutoriels que vous trouverez ici !
 
 - <a href="https://soowcode.github.io/MQTT/" >MQTT</a>
-- <a href="https://soowcode.github.io/Python/">PYTHON</a> 
-- <a href="https://soowcode.github.io/Ubuntu-commandes/" >Ubuntu-commandes</a>   
-- <a href="https://soowcode.github.io/apache-benchmark/">Apache-benchmark</a>
-- <a href="https://soowcode.github.io/callback-function/" >Callback-function</a>  
+- <a href="https://soowcode.github.io/Python/">Python</a> 
+- <a href="https://soowcode.github.io/Ubuntu-commandes/" >Commandes Ubuntu</a>   
+- <a href="https://soowcode.github.io/apache-benchmark/">Apache Benchmark</a>
+- <a href="https://soowcode.github.io/callback-function/" >Fonction de rappel (Callback)</a>  
 - <a href="https://soowcode.github.io/docker/">Docker</a>
-- <a href="https://soowcode.github.io/happy-path-and-edge-cases/" >Happy-path-and-edge-cases</a>  
-- <a href="https://soowcode.github.io/npm-vs-npx/">Npm-vs-npx</a>
-- <a href="https://soowcode.github.io/python-commandes/" >python-commandes</a>  
-- <a href="https://soowcode.github.io/react-native/">React-native</a>
-- <a href="https://soowcode.github.io/spring-boot/" >Spring-boot</a>  
-- <a href="https://soowcode.github.io/tests/">Tests avec python</a>
+- <a href="https://soowcode.github.io/happy-path-and-edge-cases/" >Chemin heureux et cas limites</a>  
+- <a href="https://soowcode.github.io/npm-vs-npx/">Npm vs. Npx</a>
+- <a href="https://soowcode.github.io/python-commandes/" >Commandes Python</a>  
+- <a href="https://soowcode.github.io/react-native/">React Native</a>
+- <a href="https://soowcode.github.io/spring-boot/" >Spring Boot</a>  
+- <a href="https://soowcode.github.io/tests/">Tests avec Python</a>
 
-## Author
+## Auteur
 
 👤 **Ousmane SOW**
 
-- Website: https://soowcode.github.io
-- Twitter: [@Sow34979868](https://twitter.com/Sow34979868)
-- Github: [@sowousmane](https://github.com/sowousmane)
-- LinkedIn: [@ousmane-sow-79071412a](https://www.linkedin.com/in/ousmane-sow-79071412a/)
-- CV: [CV-DevOps](https://soowcode.github.io/files/cv/cv_ousmane.pdf)
+- Site Web : [https://soowcode.github.io](https://soowcode.github.io)
+- Twitter : [@Sow34979868](https://twitter.com/Sow34979868)
+- Github : [@sowousmane](https://github.com/sowousmane)
+- LinkedIn : [@ousmane-sow-79071412a](https://www.linkedin.com/in/ousmane-sow-79071412a/)
+- CV : [CV-DevOps](https://soowcode.github.io/files/cv/cv_ousmane.pdf)
 
 ## Soutenez-nous !
 
-Laissez une ⭐️ si ce projet vous a été utile !
+Laissez-nous une ⭐️ si ce projet vous a été utile !
+```
 
+J'ai corrigé les fautes d'orthographe, réorganisé certaines phrases pour une meilleure fluidité et ajouté quelques détails pour améliorer la clarté.
